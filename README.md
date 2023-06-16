@@ -30,7 +30,9 @@ Note that "user_id" is the user ID;
 "items_in_target_basket" is the predicting items in the next basket; 
 
 "item_time_list" is the timeline of chronological items in historical and predicting  baskets, and the same number of item time indicates the  same click/purchase timestamp (i.e., in the same basket).
+
 And the tab (i.e., "\t") is used between two adjacent columns.  
+
 
 
 *Note*: this library is being updated continuously.
